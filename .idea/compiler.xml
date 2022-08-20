@@ -10,6 +10,7 @@
         <module name="SeleniumWebdriverQazandoBase" />
         <module name="projetogitiniciante" />
         <module name="MasterClassQazando" />
+        <module name="DevopsSeleniumWebdriver" />
       </profile>
     </annotationProcessing>
   </component>
